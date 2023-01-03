@@ -1,2 +1,2 @@
 ### SVM-Email_Spam_Classifier
- classify emails into Spam and Ham by using Support Vector Machine (SVM) algorithm
+Emails are classified as Spam and Ham using Support Vector Machine (SVM) algorithm
